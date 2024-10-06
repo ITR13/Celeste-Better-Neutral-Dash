@@ -1,0 +1,6 @@
+- Name: BetterNeutralDash
+  Version: 1.0.0
+  DLL: bin/BetterNeutralDash.dll
+  Dependencies:
+    - Name: EverestCore
+      Version: 1.4673.0
